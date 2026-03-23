@@ -5,7 +5,7 @@
 The **RAGent Chatbot** is a smart, modular, and explainable AI assistant that combines **Retrieval-Augmented Generation (RAG)** with **ReAct-style agent reasoning**. It goes beyond document Q&A — deciding when to read, when to think, and when to act using tools like web search, Wikipedia, calculator, and more.
 
 <div align="center">
-  <img src="figure/thumbnail.png" width="75%" alt="RAGent Chatbot UI Preview"/>
+  <img src="ragent-chatbot/figure/thumbnail.png" width="75%" alt="RAGent Chatbot UI Preview"/>
 </div>
 
 
