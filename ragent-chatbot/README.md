@@ -1,6 +1,6 @@
-# 🤖 RAGent Chatbot — Intelligent RAG + ReAct Assistant
+# 🤖 ReActRAGent Chatbot — Intelligent RAG + ReAct Assistant
 
-> 💡 **Blog Guide**: [How This Chatbot is Built](https://shafiqulai.github.io/blogs/blog_6.html)
+> 
 
 The **RAGent Chatbot** is a smart, modular, and explainable AI assistant that combines **Retrieval-Augmented Generation (RAG)** with **ReAct-style agent reasoning**. It goes beyond document Q&A — deciding when to read, when to think, and when to act using tools like web search, Wikipedia, calculator, and more.
 
@@ -42,12 +42,6 @@ The **RAGent Chatbot** is a smart, modular, and explainable AI assistant that co
 | 🧰 Tools      | Tavily API, OpenWeather, Wikipedia, Calculator |
 
 
-## 📸 Live Preview
-
-Try the RAGent Chatbot in your browser and upload your own documents:
-
-- 🤗 **Hugging Face App**: [Try it Live](https://huggingface.co/spaces/shafiqul1357/ragent-chatbot)
-
 
 ## 🧪 Sample Prompts
 
@@ -71,11 +65,3 @@ Try the RAGent Chatbot in your browser and upload your own documents:
 4. 🔄 **Responds intelligently** → Step-by-step reasoning with full transparency
 5. 🧠 **Context retained** → Chat memory keeps track of all past Q&A
 
-
-## ✨ Want to Learn More?
-
-📘 Dive deeper into the design, code, and reasoning logic in our full blog post:
-
-👉 [📝 Read the Full Guide](https://shafiqulai.github.io/blogs/blog_6.html)
-
-This guide walks you through the architecture, ReAct prompts, tool integration, and Qdrant-based hybrid search — everything from concept to deployment.
